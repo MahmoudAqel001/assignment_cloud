@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143152480833",
+    "project_id": "fierbase-one",
+    "storage_bucket": "fierbase-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143152480833:android:4c249597e707c7b4647cc0",
+        "android_client_info": {
+          "package_name": "com.example.fierbase_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143152480833-idiua8k7rtvprfnsvgvb2n42lnho9k4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijJQJGEVR2tDElOkr4QqRggkly4zChH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143152480833-idiua8k7rtvprfnsvgvb2n42lnho9k4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
